@@ -42,3 +42,20 @@ A clean centered UI that shows short whispers for a few seconds and fades out.
 
 ### 1. Drag the folder into your resources
 
+### 2. Add to your server.cfg
+
+
+### 3. Configure allowed players  
+Add citizenids 
+
+### 4. Add the holy_wind sound
+Place holy_wind.ogg inside: interact-sound/client/html/sounds/
+
+### 5. Restart your server
+
+ 🎥 Preview (Coming Soon)
+
+Video preview will be uploaded after staged demonstration inside HTXLUX RP.
+
+MIT License — Free to use, modify, or expand as long as credit to HTXLUXRP remains.
+
